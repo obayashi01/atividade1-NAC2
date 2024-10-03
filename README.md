@@ -54,3 +54,21 @@ CREATE TABLE produtos (
     PRIMARY KEY (id)
 );
 ```
+
+# Evidencias
+
+## GET
+
+![alt text](/Images/get.png)
+
+## POST
+
+![alt text](/Images/post.png)
+
+## PUT
+
+![alt text](/Images/put.png)
+
+## (DESAFIO) Delete
+
+![alt text](/Images/delete.png)
