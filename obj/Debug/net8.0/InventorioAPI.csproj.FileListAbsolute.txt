@@ -35,3 +35,4 @@ C:\Users\labsfiap\source\repos\InventorioAPI\InventorioAPI\obj\Debug\net8.0\refi
 C:\Users\labsfiap\source\repos\InventorioAPI\InventorioAPI\obj\Debug\net8.0\InventorioAPI.pdb
 C:\Users\labsfiap\source\repos\InventorioAPI\InventorioAPI\obj\Debug\net8.0\InventorioAPI.genruntimeconfig.cache
 C:\Users\labsfiap\source\repos\InventorioAPI\InventorioAPI\obj\Debug\net8.0\ref\InventorioAPI.dll
+C:\Users\labsfiap\source\repos\InventorioAPI\InventorioAPI\obj\Debug\net8.0\InventorioAPI.sourcelink.json

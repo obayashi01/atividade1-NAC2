@@ -33,7 +33,7 @@ namespace InventarioAPI.Controllers
 
             if (!produtosCache.IsNullOrEmpty)
             {
-                var produtos = JsonConvert.DeserializeObject<List<Produto>>(produtosCache);
+                var produtos = JsonConvert.DeserializeObject<List<Produto>>( produtosCache);
                 return Ok(produtos);
             }
 
